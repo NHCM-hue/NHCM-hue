@@ -2,11 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nicolas+Henrique;I'm+23+years+old;I+study+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
- 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHCM-hue&layout=compact&hide_border=true&title_color=9400D3&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
 ## 💡 Professional Objective: Development in the Cybersecurity Field
 My goal is to kickstart my career in the back-end domain, focusing my studies on Java to build a strong foundation in programming. With dedication and continuous learning, I aim to broaden my understanding of systems and software architectures. Leveraging this technical groundwork, I plan to steer my professional trajectory towards cybersecurity.
 
